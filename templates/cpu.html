@@ -1,0 +1,45 @@
+<html>
+	<head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+		<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+		<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+		<meta http-equiv="refresh" content="3" >
+
+	</head>
+	<body>
+		<main class="mdl-layout__content mdl-color--grey-100">
+
+          <div class="demo-charts mdl-color--white mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-grid">
+            <svg fill="currentColor" width="200px" height="100px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
+              <text x="0.5" y="0.5" font-family="Roboto" font-size="0.3" fill="#888" text-anchor="middle" dy="0.1">{{ data['cpu'] }}<tspan font-size="0.2" dy="-0.06">%</tspan></text>
+            </svg>
+            <svg fill="currentColor" width="200px" height="100px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
+              <text x="0.5" y="0.5" font-family="Roboto" font-size="0.3" fill="#888" text-anchor="middle" dy="0.1">{{ data['vm_total'] }}<tspan dy="-0.06" font-size="0.2">MB</tspan></text>
+            </svg>
+            <svg fill="currentColor" width="200px" height="100px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
+              <text x="0.5" y="0.5" font-family="Roboto" font-size="0.3" fill="#888" text-anchor="middle" dy="0.1">{{ data['vm_available'] }}<tspan dy="-0.06" font-size="0.2">MB</tspan></tspan></text>
+            </svg>
+            <svg fill="currentColor" width="200px" height="100px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
+              <text x="0.5" y="0.5" font-family="Roboto" font-size="0.3" fill="#888" text-anchor="middle" dy="0.1">{{ data['vm_perc_free'] }}<tspan dy="-0.06" font-size="0.2">%</tspan></text>
+            </svg>
+          </div>
+          <div class="demo-charts mdl-color--white mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-grid">
+            <svg fill="currentColor" width="200px" height="50px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
+              <text x="0.5" y="0.7" font-family="Roboto" font-size="0.6" fill="#888" text-anchor="middle" dy="0.1">CPU</text>
+            </svg>
+            <svg fill="currentColor" width="200px" height="50px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
+              <text x="0.5" y="0.7" font-family="Roboto" font-size="0.5" fill="#888" text-anchor="middle" dy="0.1">Total Mem</text>
+            </svg>
+            <svg fill="currentColor" width="200px" height="50px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
+              <text x="0.5" y="0.7" font-family="Roboto" font-size="0.5" fill="#888" text-anchor="middle" dy="0.1">Available Mem</text>
+            </svg>
+            <svg fill="currentColor" width="200px" height="50px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
+              <text x="0.5" y="0.7" font-family="Roboto" font-size="0.5" fill="#888" text-anchor="middle" dy="0.1">Mem Usage% </text>
+            </svg>
+          </div>
+
+        </main>
+	</body>
+</html>

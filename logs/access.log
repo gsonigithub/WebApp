@@ -1,0 +1,100 @@
+INFO:  * Running on http://127.0.0.1:80/ (Press CTRL+C to quit)
+INFO:  * Restarting with stat
+WARNING:  * Debugger is active!
+INFO:  * Debugger PIN: 291-399-915
+INFO:  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:  * Restarting with stat
+WARNING:  * Debugger is active!
+INFO:  * Debugger PIN: 291-399-915
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:20] "GET / HTTP/1.1" 302 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:21] "GET /gethostdetails HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:22] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:22] "GET /favicon.ico HTTP/1.1" 302 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:22] "GET /gethostdetails HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:25] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:28] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:31] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:34] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:37] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:40] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:43] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:46] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:49] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:52] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:55] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:15:59] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:02] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:05] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:08] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:11] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:14] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:17] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:20] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:23] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:26] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:29] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:32] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:35] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:38] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:42] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:45] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:48] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:51] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:54] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:16:57] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:00] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:03] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:06] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:09] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:12] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:15] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:18] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:22] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:25] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:28] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:31] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:34] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:37] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:40] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:43] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:46] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:49] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:52] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:55] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:17:58] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:01] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:05] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:08] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:11] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:14] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:17] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:20] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:23] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:26] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:29] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:32] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:35] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:38] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:41] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:44] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:48] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:51] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 07:18:54] "GET /cpu HTTP/1.1" 200 -
+INFO:  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:  * Restarting with stat
+WARNING:  * Debugger is active!
+INFO:  * Debugger PIN: 178-865-537
+INFO: 192.168.33.1 - - [22/Nov/2017 11:21:41] "GET /gethostdetails HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:21:41] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:21:41] "GET /favicon.ico HTTP/1.1" 302 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:21:41] "GET /gethostdetails HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:21:44] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:21:47] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:21:50] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:21:53] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:21:56] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:22:00] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:22:03] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:22:06] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:22:09] "GET /cpu HTTP/1.1" 200 -
+INFO: 192.168.33.1 - - [22/Nov/2017 11:22:12] "GET /cpu HTTP/1.1" 200 -
