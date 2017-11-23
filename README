@@ -1,0 +1,1 @@
+This is a WebAPplication which checks basic host details like IP address, hostname, python version etc in a webpage. It also includes CPU usage, RAM usage etc and these details refresh dynamically(every three seconds).
